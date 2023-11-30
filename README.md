@@ -1,7 +1,7 @@
 
 # Three-Dimension Spatial-Spectral Attention Transformer for Hyperspectral Image Denoising
 
-Qiang Zhang, Yushuai Dong, Yaming Zheng, Haoyang Yu*, Qiangqiang Yuan
+Qiang Zhang, Yushuai Dong, Yaming Zheng, Haoyang Yu*, Meiping Song, Lifu Zhang, Qiangqiang Yuan
 
 [[code]](https://github.com/Featherrain/TDSAT/) 
 
