@@ -3,7 +3,7 @@
 
 Qiang Zhang, Yushuai Dong, Yaming Zheng, Haoyang Yu*, Qiangqiang Yuan
 
-[[code]](http://arxiv.org/) [[paper(arXiv)]](http://arxiv.org/)
+[[code]](https://github.com/Featherrain/TDSAT/) 
 
 <hr />
 
@@ -13,12 +13,6 @@ Qiang Zhang, Yushuai Dong, Yaming Zheng, Haoyang Yu*, Qiangqiang Yuan
 ## Network Architecture
 <img src = "figs/overall.png"> 
 
-## Installation
-```
-git clone https://github.com/
-cd TDSAT
-pip install -r requirements.txt
-```
 
 ## Contents
 1. [Models](#Models)
@@ -81,12 +75,5 @@ Experiments are performed on different datasetas, including ICVL dataset (Gaussi
 
 
 
-## Citations
-
-If you find the code helpful in your resarch or work, please cite the following paper(s).
-
-```
-
-```
 ## Acknowledgement
 The codes are based on [QRNN3D](https://github.com/Vandermode/QRNN3D).
