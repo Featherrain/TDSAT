@@ -19,7 +19,7 @@ Qiang Zhang, Yushuai Dong, Yaming Zheng, Haoyang Yu*, Meiping Song, Lifu Zhang, 
 1. [Datasets](#Datasets)
 1. [Training and Testing](#Training)
 1. [Results](#Results)
-1. [Results](#Citation)
+1. [Citation](#Citation)
 
 
 ## Models
