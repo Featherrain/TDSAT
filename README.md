@@ -3,7 +3,7 @@
 
 Qiang Zhang, Yushuai Dong, Yaming Zheng, Haoyang Yu*, Meiping Song, Lifu Zhang, Qiangqiang Yuan
 
-[[code]](https://github.com/Featherrain/TDSAT/) 
+[[code]](https://github.com/Featherrain/TDSAT/)  [[paper]]( https://ieeexplore.ieee.org/document/10677534)
 
 <hr />
 
@@ -72,6 +72,23 @@ Experiments are performed on different datasetas, including ICVL dataset (Gaussi
 <summary><strong>Real data Denoising</strong> (click to expand) </summary>
 <img src = "figs/urban.jpg"> 
 </details>
+
+
+## Citation
+
+```angular2html
+@ARTICLE{10677534,
+  author={Zhang, Qiang and Dong, Yushuai and Zheng, Yaming and Yu, Haoyang and Song, Meiping and Zhang, Lifu and Yuan, Qiangqiang},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Three-Dimension Spatial–Spectral Attention Transformer for Hyperspectral Image Denoising}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-13},
+  keywords={Noise reduction;Noise;Correlation;Feature extraction;Three-dimensional displays;Current transformers;Hyperspectral imaging;3-D;denoising;hyperspectral image (HSI);spatial-spectral self-attention;Transformer},
+  doi={10.1109/TGRS.2024.3458174}}
+
+```
 
 
 
